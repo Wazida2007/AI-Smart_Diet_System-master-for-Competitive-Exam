@@ -1,0 +1,55 @@
+
+REPORT
+===========================================
+
+User Details
+===========================================
+Name           : Wazida
+Age            : 20
+Gender         : Female
+Height         : 158.0cm
+Weight         : 55.6kg
+Weight Goal    : 55.0kg
+Activity Level : 1
+
+Your BMI is 22.3 and your weight status is Normal
+
+Calories Report
+===========================================
+Daily calories you need to maintain your current weight is 1656
+Daily calories you need to lose weight (0.60kg/week) is 1055
+
+Suggested meal
+===========================================
+Breakfast:
+
+  Meal Name 1  : Fried Irish Cabbage with bacon
+  Amount       : 1 serving
+  Calories     : 356
+
+
+  Total Breakfast Calories : 356.0
+
+Lunch:
+
+  Meal Name 1  : Tuna Stuffed Tomato
+  Amount       : 1 serving
+  Calories     : 346.3
+
+
+  Total Lunch Calories : 346.3
+
+Dinner:
+
+  Meal Name 1  : Easy Grilled Chicken
+  Amount       : 2 serving
+  Calories     : 415.8
+
+  Meal Name 2  : Carrots
+  Amount       : 2 cup
+  Calories     : 172.2
+
+  Total Dinner Calories : 588.0
+=============================
+Total Calories : 1291
+=============================
